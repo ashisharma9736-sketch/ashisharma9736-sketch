@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**ashisharma9736-sketch/ashisharma9736-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ** Ashi ** , a creative coder who loves bringing ideas to life :+
+Currently exploring ** Python ** and ** SQL ** , and building small
+things that make a big impact.
 
-Here are some ideas to get you started:
+Outside of code, you'll find me vibing to ** music ** , reading
+** comics ** , or watching ** anime **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- & Python
+SOL
+Always curious to learn more ...
+
+###
+
+Fun Fact
+I code best at ** midnight ** - when the world's quiet and ideas flow
+the loudest
+
+###
+
+GitHub Stats
+! [Ashi's GitHub
+Stats](https://github-readme-stats.vercel.app/api7username=
+ashisharma9736-sketch&show_icons=true&theme=tokyonight)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernam
+e=ashisharma9736-sketch&layout=compact&theme=tokyonight)
+
+###
+
+Connect with me
+[Instagram](https://www.instagram.com/ashi_ashi_011)
+Let's talk about code, comics, or anime!
+
+>_"Code like it's magic, debug like it's art."_ i+
