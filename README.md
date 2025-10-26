@@ -8,6 +8,7 @@ Outside of code, you'll find me vibing to **music**, reading **comics**, or watc
 ### Tech Stack
 - Python
 - SQL
+- ML
 
 Always curious to learn more...
 
@@ -32,6 +33,7 @@ Connect with me
 Let's talk about code, comics, or anime!
 
 >_"Code like it's magic, debug like it's art."
+
 
 
 
