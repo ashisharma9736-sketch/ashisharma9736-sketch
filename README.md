@@ -22,7 +22,7 @@ the loudest
 
 GitHub Stats
 ! [Ashi's GitHub
-Stats](https://github-readme-stats.vercel.app/api7username=
+Stats](https://github-readme-stats.vercel.app/api?username=
 ashisharma9736-sketch&show_icons=true&theme=tokyonight)
 
 ![Top
@@ -35,5 +35,6 @@ Connect with me
 [Instagram](https://www.instagram.com/ashi_ashi_011)
 Let's talk about code, comics, or anime!
 
->_"Code like it's magic, debug like it's art."_ i+
+>_"Code like it's magic, debug like it's art."
+
 
