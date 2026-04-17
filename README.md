@@ -2,7 +2,8 @@
 
 Hi There 👋
 This is Ashi, here are my tech stack :
-🌱Python, SQL, AIML, Excel<br>💬Python, Sql<br>Power BI<br><br><br>
+
+🌱Python, SQL, AIML, Excel, numpy, ml(basic)<br>💬Python, Sql<br>Power BI<br><br><br>
 
 
 ## 🌐 Socials:
